@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/de30809b9d36c80aab2d833e04d9d1af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f3043018c5ccaae98b5bbcbdacd54ed/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1e6855d4ebe188a3a51a11ffccc5e74e/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2c4a8b96eb028d99cce801f4bc35e1bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a22c2be134e472507965c04bcde39c53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/99c8521d05efdeacdba177ccfbde6283/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9f2589af7441c2bc19a4d6b1b56e4360/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/deae54da6696ab1be8a7109d9e251366/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d5880e7c842663f6455a50ff76174a5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/34b946cdfbde557b437b61d9a53dce7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed8f9e9765f0e9e63573780c471f07d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d312331914a390a11bdfa8982c9f503/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2be76c6c51bb62ac2b82a2bdd011fa96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/421f563e85f72a107481582325212e4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/fb9e3c221c9928816301c0afa7f7abdc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/56a8de176fe03fc299f3d0a7557079b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/94434cb4c579847f986a8b91f6cccdba/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7c25070309ca4d944bd3f3c24c2c0432/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5b0a98d7441da55a1e0b38ca78cfe62e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed6f96578f553413921eb68504428260/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/21aa21592a89cc47aa83fab674cd28f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/b9054630a9fadb33b7da75b9a34f84e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d1d3eaaeff01ebd97d38ca05858c6b5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5383a4ae966b2998c5b565207a3e9ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d8dac7ea60134770b80f3b03c5e8706e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1eec7e2fb36fcb8ad72dcb76dfe86964/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/45b7cbd819ec720bfdc3557d800dcfe7/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:4:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1e6855d4ebe188a3a51a11ffccc5e74e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1e6855d4ebe188a3a51a11ffccc5e74e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/94434cb4c579847f986a8b91f6cccdba/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/94434cb4c579847f986a8b91f6cccdba/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:12:13-39
+	android:label
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:10:13-45
+	android:roundIcon
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:11:13-58
+	android:icon
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:9:13-47
+	android:allowBackup
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:8:13-39
+	android:theme
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:13:13-44
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:7:13-40
+activity#com.sasi.calllistenerapp.MainActivity
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:18:27-74
+receiver#com.sasi.calllistenerapp.CallReceiver
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:21:9-28:20
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:21:19-71
+intent-filter#action:name:android.intent.action.PHONE_STATE
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:22:13-24:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:23:25-73
+intent-filter#action:name:android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:25:13-27:29
+action#android.intent.action.NEW_OUTGOING_CALL
+ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:26:17-82
+	android:name
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml:26:25-79
+uses-sdk
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/de30809b9d36c80aab2d833e04d9d1af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/de30809b9d36c80aab2d833e04d9d1af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f3043018c5ccaae98b5bbcbdacd54ed/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/0f3043018c5ccaae98b5bbcbdacd54ed/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1e6855d4ebe188a3a51a11ffccc5e74e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1e6855d4ebe188a3a51a11ffccc5e74e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2c4a8b96eb028d99cce801f4bc35e1bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2c4a8b96eb028d99cce801f4bc35e1bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a22c2be134e472507965c04bcde39c53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a22c2be134e472507965c04bcde39c53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/99c8521d05efdeacdba177ccfbde6283/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/99c8521d05efdeacdba177ccfbde6283/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9f2589af7441c2bc19a4d6b1b56e4360/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/9f2589af7441c2bc19a4d6b1b56e4360/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/deae54da6696ab1be8a7109d9e251366/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/deae54da6696ab1be8a7109d9e251366/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d5880e7c842663f6455a50ff76174a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d5880e7c842663f6455a50ff76174a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/34b946cdfbde557b437b61d9a53dce7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/34b946cdfbde557b437b61d9a53dce7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed8f9e9765f0e9e63573780c471f07d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed8f9e9765f0e9e63573780c471f07d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d312331914a390a11bdfa8982c9f503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/4d312331914a390a11bdfa8982c9f503/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2be76c6c51bb62ac2b82a2bdd011fa96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/2be76c6c51bb62ac2b82a2bdd011fa96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/421f563e85f72a107481582325212e4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/421f563e85f72a107481582325212e4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/fb9e3c221c9928816301c0afa7f7abdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/fb9e3c221c9928816301c0afa7f7abdc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/56a8de176fe03fc299f3d0a7557079b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/56a8de176fe03fc299f3d0a7557079b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/a7589a046a72fa03c87ff1aa549e5bb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/94434cb4c579847f986a8b91f6cccdba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/94434cb4c579847f986a8b91f6cccdba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7c25070309ca4d944bd3f3c24c2c0432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/7c25070309ca4d944bd3f3c24c2c0432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5b0a98d7441da55a1e0b38ca78cfe62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5b0a98d7441da55a1e0b38ca78cfe62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed6f96578f553413921eb68504428260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/ed6f96578f553413921eb68504428260/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/21aa21592a89cc47aa83fab674cd28f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/21aa21592a89cc47aa83fab674cd28f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/b9054630a9fadb33b7da75b9a34f84e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/b9054630a9fadb33b7da75b9a34f84e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d1d3eaaeff01ebd97d38ca05858c6b5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d1d3eaaeff01ebd97d38ca05858c6b5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5383a4ae966b2998c5b565207a3e9ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/5383a4ae966b2998c5b565207a3e9ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d8dac7ea60134770b80f3b03c5e8706e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/d8dac7ea60134770b80f3b03c5e8706e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1eec7e2fb36fcb8ad72dcb76dfe86964/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/1eec7e2fb36fcb8ad72dcb76dfe86964/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/45b7cbd819ec720bfdc3557d800dcfe7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/45b7cbd819ec720bfdc3557d800dcfe7/AndroidManifest.xml:20:5-44
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/src/main/AndroidManifest.xml

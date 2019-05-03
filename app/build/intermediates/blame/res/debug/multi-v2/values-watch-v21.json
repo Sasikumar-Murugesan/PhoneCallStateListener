@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/de30809b9d36c80aab2d833e04d9d1af/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

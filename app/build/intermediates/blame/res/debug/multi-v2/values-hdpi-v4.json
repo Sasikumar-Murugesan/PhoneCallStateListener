@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ubuntu-07/SasiDisk/AllWorkspace/TempWs/CallApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/ubuntu-07/.gradle/caches/transforms-2/files-2.1/de30809b9d36c80aab2d833e04d9d1af/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
